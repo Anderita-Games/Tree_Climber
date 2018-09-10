@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0c2798b034b8db341920ca9b8d6ed4cf
+timeCreated: 1538969481
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fibel Sued
+  fontNames:
+  - Fibel Sued
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
